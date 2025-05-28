@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo Lopes!
 
-<!--
-**gustavolopescoder/gustavolopescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Full Stack focado em JavaScript e Python.
 
-Here are some ideas to get you started:
+🚀 Apaixonado por criar soluções web modernas e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- Frontend: React, HTML, CSS, TailwindCSS
+- Backend: Node.js, Express
+- Banco de Dados: MongoDB, PostgreSQL
+- Outros: Git, GitHub, Docker
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavolopescoder&show_icons=true&theme=radical)
