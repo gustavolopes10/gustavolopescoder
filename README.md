@@ -13,7 +13,7 @@ Cientista de Dados apaixonado por tecnologia e pela arte de resolver problemas c
 ## 🛠️ Minha Caixa de Ferramentas Tecnológicas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,scikit-learn,mysql,postgresql,mongodb,docker,aws,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,postgresql,mongodb,aws,git,powerbi" />
   </a>
 </p>
 
